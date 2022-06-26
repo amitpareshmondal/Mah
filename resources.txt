@@ -10,6 +10,9 @@ b-> Hackathon :-
                  v-> Challenge Rocket
                  vi-> EventBrite
                  vii-> Hackathon Hackers Facebook Group
+                 viii->https://xathon.mettl.com/view-challenges
+                 ix->Hackerearth
+                 x->HackerRank
 
 c-> Internship :- 
                 i-> Internshala
