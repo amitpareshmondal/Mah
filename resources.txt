@@ -13,6 +13,7 @@ b-> Hackathon :-
                  viii->https://xathon.mettl.com/view-challenges
                  ix->Hackerearth
                  x->HackerRank
+                 xi-> https://www.coursejoiner.com/
 
 c-> Internship :- 
                 i-> Internshala
